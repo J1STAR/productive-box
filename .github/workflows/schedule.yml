@@ -1,4 +1,4 @@
-name: Update gist
+name: Update
 on:
   push:
     branches:
